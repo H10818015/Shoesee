@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="id_activityScreenTitles">
+
+        <item></item>
+        <item>主頁</item>
+        <item>辨識</item>
+        <item>個人資料</item>
+        <item>關於我們</item>
+        <item/>
+        <item>登出</item>
+
+    </string-array>
+
+
+    <array name="id_activityScreenIcons">
+
+        <item>@drawable/close</item>
+        <item>@drawable/home</item>
+        <item>@drawable/identify</item>
+        <item>@drawable/user</item>
+        <item>@drawable/info</item>
+        <item>0</item>
+        <item>@drawable/exit</item>
+
+
+
+    </array>
+
+
+</resources>

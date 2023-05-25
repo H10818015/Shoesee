@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/about_us_round_bg.xml" value="0.2155" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/buttons_style.xml" value="0.216" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/cart_qty.xml" value="0.191" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/check_order_2.xml" value="0.19" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/check_out.xml" value="0.19" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/check_out_info.xml" value="0.19" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/confirm_order.xml" value="0.2" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/detail_page_cart_btn.xml" value="0.2155" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/dynamic_rv_bg.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/email.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/gif_progress.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/item_selector.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/phone.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/progress_bar.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/round_corner.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/search_bg.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/search_view_bg.xml" value="0.2155" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/shoe_size_bg.xml" value="0.2155" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/static_rv_bg.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/static_rv_selected_bg.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/drawable/username_small_icon.xml" value="0.2145" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/aaaaa.xml" value="0.21550546448087432" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_boots.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_boots_detail_activity.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_confirm_order.xml" value="0.22" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_forget_password.xml" value="0.3578125" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_heels.xml" value="0.22128378378378377" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_heels_detail.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_main_page.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_make_selection.xml" value="0.3578125" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_navigation.xml" value="0.21" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_order.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_pay.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_retailer_dashboard.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_set_new_password.xml" value="0.3578125" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_shoes_detail_activity.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_shoes_detail_avtivity.xml" value="0.21550546448087432" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_slipper.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_slipper_detail.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_sneakers.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_sneakers_detail.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/activity_verify_phone_no.xml" value="0.33" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/confirm_item.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/dashboard_fragment.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/drawer_menu.xml" value="0.3567708333333333" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/dynamic_rv_item_latout.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/dynamic_rv_progress_bar.xml" value="0.3567708333333333" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/fragment_about_us.xml" value="0.23209459459459458" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/fragment_camera.xml" value="0.3541666666666667" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/fragment_identify.xml" value="0.21550546448087432" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/fragment_shopping_cart.xml" value="0.22" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/item_option.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/order_item.xml" value="0.25" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/static_rv_item.xml" value="0.3567708333333333" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/layout/test.xml" value="0.3578125" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3578125" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/menu/main_menu.xml" value="0.3578125" />
+        <entry key="..\:/1shoes/shoesee/app/src/main/res/xml/provider_paths.xml" value="0.11366644606221046" />
+        <entry key="..\:/shoesee/app/src/main/res/layout/activity_dashboard.xml" value="0.3578125" />
+        <entry key="..\:/shoesee/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/shoesee/app/src/main/res/layout/activity_login2.xml" value="0.3578125" />
+        <entry key="..\:/shoesee/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/shoesee/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/shoesee/app/src/main/res/layout/activity_user_profile.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

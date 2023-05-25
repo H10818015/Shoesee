@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431527341482",
+    "firebase_url": "https://shoesee-23f2d-default-rtdb.firebaseio.com",
+    "project_id": "shoesee-23f2d",
+    "storage_bucket": "shoesee-23f2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431527341482:android:2b9f6f6864d424bcef8fd3",
+        "android_client_info": {
+          "package_name": "com.example.shoesee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431527341482-dn2s797es8d59bjdfa13qrpg8n773a69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoesee",
+            "certificate_hash": "aa00bb3ad57cf2c65b2d47ead768c50342c72983"
+          }
+        },
+        {
+          "client_id": "431527341482-5iqpu06g3lfr2nff6mbvsj46jvre6u6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrSO6kQDJHRodgl-rfvkZr5EEzrTADYLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431527341482-5iqpu06g3lfr2nff6mbvsj46jvre6u6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
